@@ -61,8 +61,8 @@ Borrow out = A'Bin + A'B + BBin
 **Program:**
 ~~~
 /* Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
-Developed by: Meenu.S
-RegisterNumber: 212223230124
+Developed by: Sanjit.P
+RegisterNumber: 212223230190
 */
 
 module FullAddSub(a,b,c,sum,carry,D,BO);
